@@ -30,4 +30,6 @@ npm-debug.log*
 /plugins
 /www
 /asm
+/asm.zip
 /esp
+/esp.zip

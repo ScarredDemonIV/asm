@@ -96,8 +96,8 @@
       </ion-col>
     </ion-row>
     <ion-row>
-      <ion-col class="text-align-center">
-        <ion-button {click}="localSW.addPwaToHomeScreen()" *ngIf="localSW.pwaButton" color="primary">Install to home screen</ion-button>
+      <ion-col class="ion-text-center">
+        <ion-button (click)="localSW.addPwaToHomeScreen()" *ngIf="localSW.pwaButton" color="primary">Install to home screen</ion-button>
       </ion-col>
     </ion-row>
   </ion-grid>
