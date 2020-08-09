@@ -1,6 +1,9 @@
 {
   "name": "ESP Angular",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
   "type": "angular",
   "id": "12fc6ba6"
 }
